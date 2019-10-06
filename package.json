@@ -1,0 +1,29 @@
+{
+  "name": "word-example",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h9h/word-example.git"
+  },
+  "author": "h9h",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h9h/word-example/issues"
+  },
+  "homepage": "https://github.com/h9h/word-example#readme",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@h9h/word-collect": "^1.0.7",
+    "@material-ui/core": "^4.5.0",
+    "@material-ui/styles": "^4.5.0",
+    "clsx": "^1.0.4",
+    "next": "^9.0.8",
+    "prop-types": "^15.7.2",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
